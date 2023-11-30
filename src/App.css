@@ -7,6 +7,9 @@ body {
   background-color: black;
   height: 100%;
 }
+table {
+  color: white
+}
 
 .App-logo {
   height: 40vmin;
